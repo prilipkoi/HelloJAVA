@@ -1,15 +1,14 @@
-package sample;
-
+package cycle;
 
 /**
  * Created by prilipko.ia on 04.09.2018.
  */
-public class DoWhile {
+public class While {
     public static void main(String[] args) {
         int n = 10;
-        do {
+        while (n > 0) {
             System.out.println("такт " + n);
             n--;
-        } while (n > 0);
+        }
     }
 }

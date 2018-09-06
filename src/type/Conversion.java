@@ -1,4 +1,4 @@
-package sample;
+package type;
 
 /**
  * Created by prilipko.ia on 27.08.2018.

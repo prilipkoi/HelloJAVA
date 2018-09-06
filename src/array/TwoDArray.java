@@ -1,4 +1,4 @@
-package sample;
+package array;
 
 /**
  * Created by prilipko.ia on 28.08.2018.

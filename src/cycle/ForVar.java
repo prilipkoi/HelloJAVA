@@ -1,4 +1,4 @@
-package sample;
+package cycle;
 
 /**
  * Created by prilipko.ia on 04.09.2018.
