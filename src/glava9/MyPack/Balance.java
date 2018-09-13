@@ -4,7 +4,7 @@ package glava9.MyPack;
 /**
  * Created by prilipko.ia on 12.09.2018.
  */
-public class Balance {
+class Balance {
     String name;
     double bal;
 
