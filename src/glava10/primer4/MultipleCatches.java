@@ -6,7 +6,7 @@ package glava10.primer4;
 // Продемонстрировать применение нескольких операторов catch
 
 public class MultipleCatches {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try {
             int a = args.length;
             System.out.println("a = " + a);
